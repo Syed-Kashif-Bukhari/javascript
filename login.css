@@ -1,0 +1,23 @@
+body{
+    background-image: url(images/images.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 600px ;
+    background-color: lightpink;
+    border-radius: 2px;
+}
+.demo {
+margin-top: 20px;
+
+}
+.one {
+    margin-top: 10px;
+    padding-top: 100px;
+}
+#demo1 {
+    border: 2px;
+}
+.borde {
+    border-block-start-color: 2px sandybrown;
+}
